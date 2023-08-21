@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c47365b.css",
+    "main.js": "/static/js/main.81290f96.js",
+    "static/js/787.38e346d7.chunk.js": "/static/js/787.38e346d7.chunk.js",
+    "static/media/brain.png": "/static/media/brain.f978af8161ecd9c3b19c.png",
+    "static/media/OKNG.jpg": "/static/media/OKNG.c59bc91346688d7b6679.jpg",
+    "static/media/vision.png": "/static/media/vision.eab26fed61432d74f79e.png",
+    "static/media/Liquid Lens diagram.jpg": "/static/media/Liquid Lens diagram.82288aa3551b8c9dc9e0.jpg",
+    "static/media/inspec.jpg": "/static/media/inspec.264c2160449319c05c93.jpg",
+    "static/media/index_Monitor.jpg": "/static/media/index_Monitor.71a778c3e40d4cc26895.jpg",
+    "index.html": "/index.html",
+    "main.5c47365b.css.map": "/static/css/main.5c47365b.css.map",
+    "main.81290f96.js.map": "/static/js/main.81290f96.js.map",
+    "787.38e346d7.chunk.js.map": "/static/js/787.38e346d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c47365b.css",
+    "static/js/main.81290f96.js"
+  ]
+}
